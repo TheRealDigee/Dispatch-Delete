@@ -1,0 +1,7 @@
+Hey Thanks for checking out one of my scripts!
+
+Something very simple which I'm sure people have come out with before, but something a bit
+updated and working with little to no issues unless you use another script that
+forces to set Ped / AI Traffic otherwise.
+
+Enjoy!
